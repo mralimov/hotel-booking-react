@@ -1,0 +1,6 @@
+.navbar {
+  max-height: 5rem;
+  background-color: #003580;
+  display: flex;
+  justify-content: center;
+}
