@@ -13,6 +13,9 @@
 }
 
 .headerContainer.listMode {
+  margin: 2rem 0rem 0rem 0rem;
+}
+.headerContainer.listMode {
   margin: 2rem 0px 0px 0px;
 }
 
